@@ -1,4 +1,4 @@
-## Introductory Project: Diagonal Sudoku Solver
+## Diagonal Sudoku Solver
 Language: Python </br>
 Techniques: Constraint Propagation and Search
 Build an intelligent agent that can solve sudoku
